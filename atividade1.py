@@ -4,7 +4,7 @@ class Pessoa:
       #  self.nome = nome
       #  self.idade = idade
     #self.peso = peso
-   # self.altura = altura
+   # self.altura = altur
 
     def envelhecer (self):
         self.idade += 1
